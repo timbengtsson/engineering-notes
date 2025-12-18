@@ -1,43 +1,8 @@
-# Bash Basics
+# Looping in Bash
  
-
-## Variables
-
-In bash a variable is just the bvariable name, equal sign and then the value. No spaces.<br>
-Print it with echo and prepending dollar sign to the variable.
-```bash
-name="Garfield"
-echo $name
-
-# using it in a string like so:
-echo "Your name is $name"
-```
-
-## Getting input from user
-
-Get input from user with _read_
-
-```bash
-read -p “What file should be analyzed:” file
-echo “Checking $file”
-```
-
-## if 
-
-```bash
-if [-f "$file"]; then
-    echo "File exist"
-else 
-    echo "File does not exist"
-fi
-```
-
-## Looping
-
 Bash has got some looping going on.<br>
 
-### For loops
- 
+### For loops 
 Used when we have a known list. <br>
 Like files, words or things like that. <br>
 _(Similar to `foreach` in PHP or `for...of` in JavaScript)_<br>
@@ -46,6 +11,11 @@ _(Similar to `foreach` in PHP or `for...of` in JavaScript)_<br>
 # bash
 for file in *.log; do
     echo "Processing $file"
+done
+
+for current_number in {1..10}
+do
+    echo $current_numer
 done
 ``` 
 
@@ -65,8 +35,7 @@ foreach ($files as $file) {
 foreach ($files as $key => $value) {
     echo $file;
 }
-```
-
+``` 
 
 C-style for loop, if we need a counter. <br>
 _(Similar to a for loop in PHP)_<br>
@@ -116,6 +85,6 @@ check_user "Michael"
 ```
  
 
-## Tools & tips
+# Resources 
 
-Check your shell scripts on [ShellCheck](https://www.shellcheck.net/)
+[Bash For Loops](https://www.youtube.com/watch?v=HvzI7c3eK5k)

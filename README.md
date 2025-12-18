@@ -23,28 +23,27 @@ This repository evolves continuously as I learn more.
 
 ## Contents
 - [Bash](./bash/README.md)
-- [IT-security concept](./principles/README.md)
+- [IT-security Principles](./it-security/principles/README.md)
+- [Education](./education/education.md)
 <!-- - [Tools, programs and tips](./tools-and-tips/README.md) -->
 <!-- - [Networks](./networking/README.md) -->
 <!-- - [Basic Powershell](./powershell/basic-powershell.md) -->
 <!-- - [CTF-writeups](./ctf/README.md) -->
 
- 
 ## Scope & Disclaimer
-- These notes are written for learning purposes
-- Some content may be simplified, experimental, and/or very wrong
-- CTF writeups do not include solutions to active challenges
-- Don't do illegal things. That is bad. 
+- These notes are written for learning purposes.
+- Some content may be simplified, experimental, and/or very wrong.
+- CTF writeups do not include solutions to active challenges.
+- Don't do illegal things. That is a bad, most of the time.
 
 
 ## A little about me
 I’m an experienced programmer turned IT-security student with a strong interest in:
-
 - Defensive and offensive security
 - Scripting and automation
 - Networking and infrastructure
 - Understanding why things break, not just how to fix them
-- [AI impact on society](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [AIs impact on society](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - And Rickrolling, apparently
 
 I learn best by doing, documenting, and explaining.
