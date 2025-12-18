@@ -1,6 +1,5 @@
 # Log Monitoring
 
-## Summary
 _Log Monitoring_ is a core practice in IT-security. <br>
 The idea is to continuously collect, review and analyze logs that has been generated.<br>
 In logs we can find events such as user login attempts, configuration changes, errors and system activity.<br>  

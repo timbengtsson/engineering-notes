@@ -29,13 +29,7 @@ This repository evolves continuously as I learn more.
 <!-- - [Networks](./networking/README.md) -->
 <!-- - [Basic Powershell](./powershell/basic-powershell.md) -->
 <!-- - [CTF-writeups](./ctf/README.md) -->
-
-## Scope & Disclaimer
-- These notes are written for learning purposes.
-- Some content may be simplified, experimental, and/or very wrong.
-- CTF writeups do not include solutions to active challenges.
-- Don't do illegal things. That is a bad, most of the time.
-
+ 
 
 ## A little about me
 I’m an experienced programmer turned IT-security student with a strong interest in:
@@ -48,7 +42,15 @@ I’m an experienced programmer turned IT-security student with a strong interes
 
 I learn best by doing, documenting, and explaining.
 
+
 ## Practice Platforms
 I actively practice hands-on IT security labs and challenges on the following platforms:
 
 - **TryHackMe** – https://tryhackme.com/p/BugLord 
+
+
+## Scope & Disclaimer
+- These notes are written for learning purposes, and will evolve.
+- Some content may be simplified, experimental, and/or very wrong.
+- CTF writeups do not include solutions to active challenges.
+- Don't do illegal things. That is very bad, most of the time.

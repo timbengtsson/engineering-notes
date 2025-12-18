@@ -41,7 +41,7 @@ This section lists my formal education and selected university-level courses rel
 
 --- 
 
-## IT courses and training
+## Online courses and training
  
 ### Try hack me
 - [TryHackMe profile](https://tryhackme.com/p/BugLord)
