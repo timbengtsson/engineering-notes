@@ -24,7 +24,7 @@ This repository evolves continuously as I learn more.
 ## Contents
 - [Bash](./bash/README.md)
 - [IT-security Principles](./it-security/principles/README.md)
-- [Education](./education/education.md)
+- [Education](./education/README.md)
 <!-- - [Tools, programs and tips](./tools-and-tips/README.md) -->
 <!-- - [Networks](./networking/README.md) -->
 <!-- - [Basic Powershell](./powershell/basic-powershell.md) -->
