@@ -1,29 +1,33 @@
-# IT Security – Notes, Labs & CTF Writeups
-It contains:
+# Engineering Notes 
+## Development, Architecture, Security, and Systems Thinking
+ 
+This repository contains structured notes, experiments, and practical work related to software engineering and IT security, including:
 
-- Personal notes and summaries
-- Hands-on labs
-- CTF writeups
-- Bash and PowerShell scripting
-- Networking and security fundamentals
-- Tools and techniques used in real-world scenarios
+- Personal notes, summaries, and reflections
+- Software and system architecture concepts
+- Design principles and engineering best practices
+- Hands-on experiments, labs, and small projects
+- Security-focused exercises and CTF-style challenges
+- Scripting and automation for systems and security tasks
+- Networking, operating systems, and infrastructure fundamentals
+- Tools, techniques, and workflows used in real-world environments
 
-The goal is not to be polished or theoretical, but practical and transparent. <br>
-Everything here reflects what I have actually studied, tested, broken, fixed, or automated.
+The goal is not to be polished or purely theoretical, but practical and transparent.<br>
+Everything here reflects what I have actually studied, tested, broken, fixed, or automated. 
 
 
 ## Why this repository exists
 - To structure my learning in IT security and scripting
-- To demonstrate how I think and work, not just what I’ve read
+- To demonstrate how I think and work
 - To serve as a reference for myself and others
 - To give employers and collaborators a concrete view of my skills and interests
 
-This repository evolves continuously as I learn more. 
+This repository evolves continuously as I learn and refine my understanding.
 
 
 ## Contents
 - [Bash](./bash/README.md)
-- [IT-security Principles](./it-security/principles/README.md)
+- [IT-security](./it-security/README.md)
 - [Education](./education/README.md)
 <!-- - [Tools, programs and tips](./tools-and-tips/README.md) -->
 <!-- - [Networks](./networking/README.md) -->
