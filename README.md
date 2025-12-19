@@ -26,7 +26,7 @@ This repository evolves continuously as I learn and refine my understanding.
 
 
 ## Contents
-- [Bash](./bash/README.md)
+- [Bash](./programming/bash/README.md)
 - [IT-security](./it-security/README.md)
 - [Education](./education/README.md)
 <!-- - [Tools, programs and tips](./tools-and-tips/README.md) -->
