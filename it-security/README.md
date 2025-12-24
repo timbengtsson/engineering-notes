@@ -23,20 +23,19 @@ The content is influenced by my studies as an **[IT Security Developer](../educa
 --- 
  
 ## Contents
-#### [**Principles** – Security fundamentals and mental models  ](./principles/README.md)
-- [Defense in Depth](./principles/defense-in-depth.md)
-- [Least privilege](./principles/least-privilege.md)
-- [Least functionality](./principles/least-functionality.md)
-- [Zero Trust](./principles/zero-trust.md) 
-
-#### [**Operations** - protecting, monitoring, and responding](./operations/README.md)
-- [Log Monitoring - continuously collect, review and analyze logs](./operations/log-monitoring.md)
-
-#### [**Threat-Modeling** - systematically identifying what needs to be protected](./threat-modeling/README.md) 
-
-
-#### [**IT-security tools** - using the tools of giants](./tools-and-tips/README.md) 
-
+- [**Principles** – Security fundamentals and mental models  ](./principles/README.md)
+- - [Defense in Depth](./principles/defense-in-depth.md)
+- - [Least privilege](./principles/least-privilege.md) *(planned)*
+- - [Least functionality](./principles/least-functionality.md) *(planned)*
+- - [Zero Trust](./principles/zero-trust.md) *(planned)*
+- [**Operations** - protecting, monitoring, and responding](./operations/README.md)
+- - [Log Monitoring - continuously collect, review and analyze logs](./operations/log-monitoring.md)
+- [**Threat-Modeling** - systematically identifying what needs to be protected](./threat-modeling/README.md) 
+- [**Attacks** - cops and robbers](./attacks/README.md) 
+- - [SQL-injection - database attacks](./attacks/sql-injection.md) 
+- [**IT-security tools** - using the tools of giants](./tools-and-tips/README.md) 
+- - [SQLMap - knock on the DB door](./tools-and-tips/sqlmap.md) 
+- 
 ---
 
 ## Disclaimer 

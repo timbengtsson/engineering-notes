@@ -5,7 +5,7 @@
 
 ## Purpose / What does it do?
 
-SQLmap is an automated tool to discover and exploit SQL-injection vulnerabilities in web applications.
+SQLmap is an automated tool to discover and exploit SQL-injection vulnerabilities in web applications.<br>
 Used in penntesting and security analysis to check if it is possible to manipulate user inputs to attack databases.  
 
 ### In a Nutshell

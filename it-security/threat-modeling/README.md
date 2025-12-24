@@ -9,7 +9,7 @@ Threat Modeling aims to answer question like:
 - Where will the system fail first?
 - What matters most if (when) something goes wrong?
 
-Threat Modeling is the process of systematically identifying what needs to be protected, where a system is vulnerable, and how an attacker is most likely to succeed.
+Threat Modeling is the process of systematically identifying what needs to be protected, where a system is vulnerable and how an attacker is most likely to succeed.
 Starting with a clear understanding of the system and its assets gives us a foundation on which we can harden the systems in practice.
 
 ---

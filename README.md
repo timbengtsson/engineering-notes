@@ -28,8 +28,9 @@ This repository evolves continuously as I learn and refine my understanding.
 ## Contents
 - [Bash](./programming/bash/README.md)
 - [IT-security](./it-security/README.md)
+- - [Tools, programs and tips](./it-security/tools-and-tips/README.md)
 - [Education](./education/README.md)
-- [Tools, programs and tips](./it-security/tools-and-tips/README.md)
+
 <!-- - [Networks](./networking/README.md) -->
 <!-- - [Basic Powershell](./powershell/basic-powershell.md) -->
 <!-- - [CTF-writeups](./ctf/README.md) -->
@@ -44,7 +45,7 @@ I’m an experienced programmer turned IT-security student with a strong interes
 - [AIs impact on society](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - And Rickrolling, apparently
 
-I learn best by doing, documenting, and explaining.
+I learn best by doing, failing, documenting, and explaining.
 
 
 ## Practice Platforms
