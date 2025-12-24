@@ -35,6 +35,8 @@ The content is influenced by my studies as an **[IT Security Developer](../educa
 #### [**Threat-Modeling** - systematically identifying what needs to be protected](./threat-modeling/README.md) 
 
 
+#### [**IT-security tools** - using the tools of giants](./tools-and-tips/README.md) 
+
 ---
 
 ## Disclaimer 

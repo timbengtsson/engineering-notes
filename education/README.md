@@ -4,7 +4,7 @@ This section lists my formal education and selected university-level courses rel
 
 ## Programs
 
-### ECutbildning 2025–2027
+### EC-Utbildning 2025–2027
 - [IT Security Developer](./it-security_developer.md)
 
 ### Ingesund School of Music & Karlstad University 2006 
@@ -12,7 +12,7 @@ This section lists my formal education and selected university-level courses rel
 
 ---
 
-## Courses
+## University Courses
 
 ### University of Helsinki (2020–2021)
 - Elements of AI  
@@ -24,6 +24,9 @@ This section lists my formal education and selected university-level courses rel
 - JavaScript, jQuery, and AJAX with HTML5 and PHP  
 - Databases, HTML, CSS, and Script-Based PHP Programming  
 
+### Dalarna University (2010–2011)
+- Images Fonts, XHTML, CSS, Webdesign and JavaScript
+  
 ### Jönköping University (2010–2011)
 - Digital Image Processing (Adobe Photoshop)
 
@@ -38,15 +41,12 @@ This section lists my formal education and selected university-level courses rel
 ### Broby Grafiska (2001–2004)
 - Media Program (Multimedia, Web Design, Audio, Video, Photography, Image Editing)
 
-
 --- 
 
 ## Online courses and training
  
 ### Try hack me
 - [TryHackMe profile](https://tryhackme.com/p/BugLord)
-  
 
-  
 ### Udemy
-- 
+- [Mastering Linux: The Complete Guide to Becoming a Linux Pro](https://www.udemy.com/course/linux-training/?couponCode=CM251222G1)

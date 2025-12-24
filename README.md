@@ -29,7 +29,7 @@ This repository evolves continuously as I learn and refine my understanding.
 - [Bash](./programming/bash/README.md)
 - [IT-security](./it-security/README.md)
 - [Education](./education/README.md)
-<!-- - [Tools, programs and tips](./tools-and-tips/README.md) -->
+- [Tools, programs and tips](./it-security/tools-and-tips/README.md)
 <!-- - [Networks](./networking/README.md) -->
 <!-- - [Basic Powershell](./powershell/basic-powershell.md) -->
 <!-- - [CTF-writeups](./ctf/README.md) -->
