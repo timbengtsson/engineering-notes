@@ -9,6 +9,8 @@ a moat, outer walls, inner walls, guards, and locked doors. Multiple layers.
 ## The main idea
 No security control is perfect. 
 
+> Assume that the system has already been breached.
+
 Defense in Depth assumes that:
 
 - Systems will be misconfigured
